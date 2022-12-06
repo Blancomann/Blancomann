@@ -11,7 +11,7 @@ Hi, I'm Agustín Blanco Belmont, a Full Stack Developer from Argentina, graduate
 
 
 
-**Talking about Personal Stuffs:**
+**Personal Stuffs:**
 
 
 - 📫 How to reach me: ablancobel@gmail.com;
