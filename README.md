@@ -7,18 +7,14 @@
 <br />
 <br />
 
-Hi, I'm Agustín Blnaco Belmont, a Full Stack Developer from Argentina, graduated from SoyHenry's bootcamp an currently in continuous learning.
+Hi, I'm Agustín Blanco Belmont, a Full Stack Developer from Argentina, graduated from SoyHenry's bootcamp an currently in continuous learning.
 
 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning Rust; 
-- 👯 I’m looking to collaborate on DevPost;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: vrwilliams719@gmail.com;
+
+- 📫 How to reach me: ablancobel@gmail.com;
 - 📝[Resume](https://drive.google.com/file/d/1FN8Lg85rva2tpZVqPXPqZEEQbzakS5OH/view?usp=sharing)
 
 **Languages and Tools:**  
