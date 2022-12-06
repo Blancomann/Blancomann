@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Agustín Blanco Belmont, a Full Stack Developer from Argentina, graduated from SoyHenry's bootcamp an currently in continuous learning.
+Hi, I'm Agustín Blanco Belmont, a Full Stack Developer from Argentina, graduated from SoyHenry's bootcamp and, currently in continuous learning.
 
 
 
