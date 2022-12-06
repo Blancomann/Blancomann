@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Victor Williams, a Full Stack Developer 🚀 from Philadelphia, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@BankMobile](https://bankmobile.com). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Super Smash Bros Melee for the Nintendo GameCube.
+Hi, I'm Agustín Blnaco Belmont, a Full Stack Developer from Argentina, graduated from SoyHenry's bootcamp an currently in continuous learning.
 
 
 
