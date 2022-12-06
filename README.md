@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm Agustín
 
-<a href="https://www.linkedin.com/in/victorwilliams719/">
+<a href="https://www.linkedin.com/in/blancobelmontagustin/">
   <img align="left" alt="Agustin's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -35,6 +35,3 @@ Hi, I'm Victor Williams, a Full Stack Developer 🚀 from Philadelphia, currentl
 
 
 ![Blancomann Github Stats](https://github-readme-stats.vercel.app/api?username=blancomann&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-⭐️ From [abhisheknaidu](https://github.com/abhisheknaidu)
-### [What is 20XX?](https://gist.github.com/Vaporjawn/b5b21498b3c73b371ec13d673fb53497#file-20xx)
